@@ -8,5 +8,5 @@
 <h3>Pillow</h3>
 <p>pour gérer les images dans tkinter</p>
 <p><p>pip install pillow</p>
-<h3>threading</h3> et <h3>datetime</h3>
+<h3>threading et datetime</h3>
 <p>Ces bibliothèques sont également intégrées par défaut dans Python</p>
